@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.poster{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    /*font-family: 'Caveat', cursive;*/
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+.angry-cat-gif{
+  border: 5px solid white;
+  width: 100%;
+}
+.flying-hamster-img{
+    border: 5px solid white;
+    width: 100%;
+}
+.daenerys-img{
+    border: 5px solid white;
+    width: 100%;
+}
